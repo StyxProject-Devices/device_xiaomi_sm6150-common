@@ -258,10 +258,7 @@ vendor/lib/libOpenCL.so
 
 # Graphics firmware
 vendor/firmware/a615_zap.b00
-vendor/firmware/a615_zap.b01
 vendor/firmware/a615_zap.b02
-vendor/firmware/a615_zap.elf
-vendor/firmware/a615_zap.mdt
 vendor/firmware/a618_gmu.bin
 vendor/firmware/a630_sqe.fw
 
@@ -363,12 +360,9 @@ vendor/lib64/vendor.qti.imsrtpservice@3.0.so
 # IPA
 vendor/etc/init/ipa_fws.rc
 vendor/firmware/ipa_fws.b00
-vendor/firmware/ipa_fws.b01
 vendor/firmware/ipa_fws.b02
 vendor/firmware/ipa_fws.b03
 vendor/firmware/ipa_fws.b04
-vendor/firmware/ipa_fws.elf
-vendor/firmware/ipa_fws.mdt
 
 # Keymaster
 vendor/bin/hw/android.hardware.keymaster@3.0-service-qti
@@ -556,7 +550,6 @@ vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql
 
 # Sensors
 vendor/etc/init/init.vendor.sensors.rc
-vendor/etc/sensors/hals.conf
 vendor/lib64/libsensorslog.so
 vendor/lib64/libsnsdiaglog.so
 vendor/lib64/libsns_fastRPC_util.so
