@@ -187,10 +187,13 @@ vendor/lib64/libdrmtime.so
 vendor/lib64/libGPreqcancel.so
 vendor/lib64/libGPreqcancel_svc.so
 vendor/lib64/libhdcpsrm.so
+vendor/lib64/libminkdescriptor.so
+vendor/lib64/libminksocket.so
 vendor/lib64/libqisl.so
 vendor/lib64/libQSEEComAPI.so
 vendor/lib64/librpmb.so
 vendor/lib64/libssd.so
+vendor/lib64/libtrustedapploader.so
 
 # DRM widevine - from 12.0.3.0.QFJMIXM
 vendor/lib64/liboemcrypto.so|2cee717b25559030a61709e826b4a5dae6043c20
